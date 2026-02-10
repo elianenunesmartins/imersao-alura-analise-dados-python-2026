@@ -56,6 +56,13 @@ O dashboard foi desenvolvido com **Streamlit** e apresenta:
 
 As imagens do dashboard estão disponíveis na pasta `assets/`.
 
+## 🌐 Acesso ao Dashboard
+
+O dashboard interativo pode ser acessado no link abaixo:
+
+👉 https://jggm4s433mnkeg2ccgq3xc.streamlit.app/
+
+
 ---
 
 ## 📁 Estrutura do Projeto
